@@ -18,6 +18,6 @@ Outlineを作ってからピクセル化したいのでアウトラインシェ�
 
 
 Outlineが頂点や辺のところで綺麗にならないのでアウトラインポストエフェクトをやる。<br>
-参考（https://qiita.com/Shinoda_Naoki/items/734fee861fe8abfca228#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%AA%AC%E6%98%8E)<br>
+[参考]（https://qiita.com/Shinoda_Naoki/items/734fee861fe8abfca228#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%AA%AC%E6%98%8E)<br>
 ![image](https://user-images.githubusercontent.com/36768869/143259904-a9400ca9-6723-4f3c-8c49-78af62d949cf.png)
 
