@@ -13,6 +13,8 @@ public class ShaderHandler : MonoBehaviour
     {
         //get the camera and tell it to render a depthnormals texture
         cam = GetComponent<Camera>();
+
+        // これで深度を取得。これがないとOutline動かない
         cam.depthTextureMode = cam.depthTextureMode | DepthTextureMode.DepthNormals;
     }
 
